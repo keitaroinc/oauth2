@@ -53,9 +53,9 @@ First import the OAuth2 design package in your design:
 package design
 
 import (
-    . "github.com/goadesign/design"
-    . "github.com/goadesign/design/apidsl"
-    . "github.com/goadesign/oauth2"
+    . "github.com/keitaroinc/design"
+    . "github.com/keitaroinc/design/apidsl"
+    . "github.com/keitaroinc/oauth2"
 )
 ```
 

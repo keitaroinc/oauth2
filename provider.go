@@ -1,4 +1,4 @@
-//go:generate goagen app -d github.com/goadesign/oauth2/design
+//go:generate goagen app -d github.com/keitaroinc/oauth2/design
 
 /*
 Package oauth2 contains the implementation of the OAuth2 provider controller.
@@ -10,8 +10,8 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/goadesign/goa"
-	"github.com/goadesign/oauth2/app"
+	"github.com/keitaroinc/oauth2/app"
+	"github.com/keitaroinc/goa"
 )
 
 type (

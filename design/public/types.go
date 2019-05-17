@@ -1,8 +1,8 @@
 package public
 
 import (
-	. "github.com/goadesign/goa/design"
-	. "github.com/goadesign/goa/design/apidsl"
+	. "github.com/keitaroinc/goa/design"
+	. "github.com/keitaroinc/goa/design/apidsl"
 )
 
 // OAuth2TokenPayload describes the body sent by the client to obtain refresh and access tokens

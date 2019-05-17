@@ -4,8 +4,8 @@
 //
 // Command:
 // $ goagen
-// --design=github.com/goadesign/oauth2/design
-// --out=$(GOPATH)/src/github.com/goadesign/oauth2
+// --design=github.com/keitaroinc/oauth2/design
+// --out=$(GOPATH)/src/github.com/keitaroinc/oauth2
 // --version=v1.1.0
 
 package app

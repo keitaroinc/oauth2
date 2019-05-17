@@ -3,8 +3,8 @@ package oauth2
 import (
 	"fmt"
 
-	"github.com/goadesign/goa"
-	"github.com/goadesign/oauth2/app"
+	"github.com/keitaroinc/goa"
+	"github.com/keitaroinc/oauth2/app"
 )
 
 type (

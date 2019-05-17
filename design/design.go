@@ -1,9 +1,9 @@
 package design
 
 import (
-	. "github.com/goadesign/goa/design"
-	. "github.com/goadesign/goa/design/apidsl"
-	. "github.com/goadesign/oauth2/design/public"
+	. "github.com/keitaroinc/goa/design"
+	. "github.com/keitaroinc/goa/design/apidsl"
+	. "github.com/keitaroinc/oauth2/design/public"
 )
 
 // OAuth2 initializes the design definitions needed to implement a OAuth2 provider.
